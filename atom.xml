@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>keith</title>
+  
+  <subtitle>keith&#39;belog</subtitle>
+  <link href="http://d2848288402.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://d2848288402.github.io/"/>
+  <updated>2022-11-10T08:03:19.326Z</updated>
+  <id>http://d2848288402.github.io/</id>
+  
+  <author>
+    <name>keith</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>words</title>
+    <link href="http://d2848288402.github.io/2022/11/10/word/"/>
+    <id>http://d2848288402.github.io/2022/11/10/word/</id>
+    <published>2022-11-10T07:40:39.175Z</published>
+    <updated>2022-11-10T08:03:19.326Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;stuck&quot;&gt;&lt;a href=&quot;#stuck&quot; class=&quot;headerlink&quot; title=&quot;stuck&quot;&gt;&lt;/a&gt;stuck&lt;/h1&gt;&lt;p&gt;adj./v.&lt;/p&gt;
+&lt;h2 id=&quot;1-unable-to-move-or-to-be-moved&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="English" scheme="http://d2848288402.github.io/categories/English/"/>
+    
+    
+    <category term="English" scheme="http://d2848288402.github.io/tags/English/"/>
+    
+    <category term="words" scheme="http://d2848288402.github.io/tags/words/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>stances</title>
+    <link href="http://d2848288402.github.io/2022/11/10/stances/"/>
+    <id>http://d2848288402.github.io/2022/11/10/stances/</id>
+    <published>2022-11-10T06:52:48.338Z</published>
+    <updated>2022-11-10T08:16:59.636Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;1-life’s-not-out-to-get-you&quot;&gt;&lt;a href=&quot;#1-life’s-not-out-to-get-you&quot; class=&quot;headerlink&quot; title=&quot;1. life’s not out to get you&quot;&gt;&lt;/a&gt;1.</summary>
+        
+      
+    
+    
+    
+    <category term="English" scheme="http://d2848288402.github.io/categories/English/"/>
+    
+    
+    <category term="English" scheme="http://d2848288402.github.io/tags/English/"/>
+    
+    <category term="stences" scheme="http://d2848288402.github.io/tags/stences/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>phrase</title>
+    <link href="http://d2848288402.github.io/2022/11/10/phrase/"/>
+    <id>http://d2848288402.github.io/2022/11/10/phrase/</id>
+    <published>2022-11-10T06:52:48.332Z</published>
+    <updated>2022-11-10T08:16:44.391Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;ol&gt;
+&lt;li&gt;never before&lt;/li&gt;
+&lt;li&gt;concenive of: form a mental image of something that is not present or that is not the case&lt;/li&gt;
+&lt;li&gt;close</summary>
+        
+      
+    
+    
+    
+    <category term="English" scheme="http://d2848288402.github.io/categories/English/"/>
+    
+    
+    <category term="English" scheme="http://d2848288402.github.io/tags/English/"/>
+    
+    <category term="phrase" scheme="http://d2848288402.github.io/tags/phrase/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CentOS7安装jdk17</title>
+    <link href="http://d2848288402.github.io/2022/11/10/Centos%207%20%E5%AE%89%E8%A3%85java17/"/>
+    <id>http://d2848288402.github.io/2022/11/10/Centos%207%20%E5%AE%89%E8%A3%85java17/</id>
+    <published>2022-11-10T04:32:43.726Z</published>
+    <updated>2022-11-10T08:16:31.776Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;1-确定是否安装java&quot;&gt;&lt;a href=&quot;#1-确定是否安装java&quot; class=&quot;headerlink&quot; title=&quot;1.确定是否安装java&quot;&gt;&lt;/a&gt;1.确定是否安装java&lt;/h1&gt;&lt;p&gt;&lt;code&gt;rpm -qa|grep java</summary>
+        
+      
+    
+    
+    
+    <category term="Java" scheme="http://d2848288402.github.io/categories/Java/"/>
+    
+    
+    <category term="centos7" scheme="http://d2848288402.github.io/tags/centos7/"/>
+    
+    <category term="java" scheme="http://d2848288402.github.io/tags/java/"/>
+    
+  </entry>
+  
+</feed>
